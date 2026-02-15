@@ -1,4 +1,4 @@
-# ec-dealership
+# es-dealership
 
 ## Join discord for support or questions
 https://discord.gg/8tpGYN2DS9
